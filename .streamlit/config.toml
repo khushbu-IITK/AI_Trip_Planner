@@ -1,0 +1,19 @@
+[theme]
+baseRadius = "large"
+
+[theme.light]
+primaryColor = "#0e7c86"
+backgroundColor = "#f3f6f7"
+secondaryBackgroundColor = "#eaf1f2"
+textColor = "#14262b"
+borderColor = "#d5e0e2"
+
+[theme.dark]
+primaryColor = "#3cc1cc"
+backgroundColor = "#0d1a1d"
+secondaryBackgroundColor = "#14262b"
+textColor = "#e6f0f1"
+borderColor = "#27444a"
+
+[client]
+toolbarMode = "minimal"
